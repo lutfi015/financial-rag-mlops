@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 0,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #1)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 1,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #2)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 2,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #3)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 3,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #4)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 4,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #5)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 5,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #6)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 6,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #7)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 7,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #8)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 8,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #9)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 9,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #10)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 10,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #11)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 11,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #12)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 12,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #13)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 13,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #14)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 14,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #15)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 15,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #16)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 16,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #17)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 17,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #18)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 18,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #19)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 19,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #20)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 20,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #21)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 21,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #22)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 22,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #23)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 23,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #24)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 24,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #25)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 25,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #26)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 26,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #27)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 27,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #28)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 28,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #29)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 29,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #30)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 30,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #31)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 31,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #32)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 32,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #33)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 33,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #34)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 34,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #35)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 35,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #36)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 36,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #37)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 37,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #38)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 38,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #39)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 39,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #40)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 40,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #41)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 41,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #42)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 42,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #43)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 43,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #44)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 44,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #45)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 45,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #46)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 46,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #47)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 47,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #48)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 48,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #49)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 49,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #50)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 50,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #51)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 51,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #52)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 52,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #53)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 53,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #54)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 54,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #55)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 55,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #56)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 56,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #57)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 57,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #58)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 58,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #59)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 59,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #60)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 60,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #61)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 61,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #62)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 62,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #63)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 63,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #64)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 64,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #65)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 65,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #66)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 66,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #67)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 67,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #68)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 68,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #69)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 69,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #70)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 70,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #71)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 71,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #72)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 72,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #73)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 73,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #74)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 74,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #75)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 75,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #76)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 76,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #77)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 77,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #78)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 78,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #79)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 79,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #80)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 80,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #81)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 81,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #82)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 82,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #83)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 83,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #84)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 84,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #85)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 85,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #86)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 86,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #87)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 87,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #88)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 88,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #89)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 89,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #90)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 90,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #91)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 91,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #92)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 92,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #93)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 93,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #94)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 94,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #95)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 95,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #96)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 96,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #97)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 97,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #98)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 98,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #99)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 99,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #100)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 100,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #101)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 101,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #102)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 102,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #103)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 103,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #104)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 104,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #105)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 105,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #106)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 106,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #107)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 107,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #108)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 108,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #109)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 109,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #110)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 110,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #111)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 111,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #112)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 112,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #113)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 113,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #114)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 114,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #115)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 115,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #116)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 116,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #117)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 117,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #118)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 118,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #119)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 119,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #120)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 120,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #121)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 121,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #122)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 122,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #123)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 123,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #124)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 124,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #125)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 125,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #126)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 126,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #127)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 127,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #128)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 128,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #129)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 129,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #130)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 130,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #131)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 131,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #132)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 132,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #133)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 133,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #134)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 134,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #135)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 135,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #136)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 136,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #137)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 137,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #138)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 138,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #139)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 139,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #140)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 140,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #141)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 141,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #142)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 142,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #143)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 143,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #144)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 144,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #145)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 145,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #146)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 146,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #147)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 147,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #148)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 148,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #149)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 149,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #150)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 150,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #151)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 151,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #152)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 152,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #153)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 153,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #154)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 154,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #155)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 155,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #156)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 156,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #157)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 157,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #158)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 158,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #159)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 159,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #160)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 160,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #161)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 161,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #162)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 162,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #163)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 163,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #164)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 164,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #165)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 165,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #166)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 166,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #167)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 167,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #168)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 168,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #169)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 169,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #170)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 170,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #171)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 171,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #172)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 172,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #173)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 173,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #174)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 174,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #175)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 175,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #176)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 176,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #177)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 177,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #178)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 178,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #179)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 179,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #180)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 180,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #181)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 181,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #182)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 182,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #183)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 183,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #184)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 184,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #185)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 185,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #186)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 186,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #187)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 187,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #188)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 188,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #189)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 189,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #190)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 190,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #191)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 191,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #192)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 192,
+    "text": "According to Gran, the company has no plans to move production to Russia. (Record #193)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 193,
+    "text": "Technopolis plans to develop in stages an area of no less than 100,000 square meters. (Record #194)",
+    "sentiment": "neutral"
+  },
+  {
+    "id": 194,
+    "text": "The international electronic industry company Elcoteq has laid off tens of employees. (Record #195)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 195,
+    "text": "With the new production plant company expected to increase its capacity by 50%. (Record #196)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 196,
+    "text": "Operating profit rose to EUR 12.5 million from EUR 8.7 million in the corresponding period. (Record #197)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 197,
+    "text": "Net sales decreased by 10% to EUR 42.1 million due to low demand in European market. (Record #198)",
+    "sentiment": "negative"
+  },
+  {
+    "id": 198,
+    "text": "The board of directors proposes a dividend of EUR 0.50 per share for the fiscal year. (Record #199)",
+    "sentiment": "positive"
+  },
+  {
+    "id": 199,
+    "text": "Shares of the company were down 3.2% in early morning trading on the Helsinki exchange. (Record #200)",
+    "sentiment": "negative"
+  }
+]
